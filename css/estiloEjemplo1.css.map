@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,WAAW,CAAA;EACP,gBAAgB,ECHX,YAAY;CDIpB;;AAED,AAAA,EAAE,CAAA;EACE,KAAK,ECNA,KAAK;EDOV,SAAS,EERJ,IAAI;CFSZ;;AAED,AAAA,CAAC,CAAA;EACG,KAAK,ECVA,IAAI;EDWT,SAAS,EEZJ,IAAI;CFaZ;;AAED,AAAA,CAAC,CAAA;EACG,KAAK,ECdA,UAAU;EDef,SAAS,EEhBJ,IAAI;CFiBZ",
+    "sources": [
+        "../scss/estiloEjemplo1.scss",
+        "../scss/_colores.scss",
+        "../scss/_tamaños.scss"
+    ],
+    "names": [],
+    "file": "estiloEjemplo1.css"
+}

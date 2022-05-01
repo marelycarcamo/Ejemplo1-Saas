@@ -1,0 +1,20 @@
+@import "colores", "tamaños";
+
+.contenedor{
+    background-color: $color1;
+}
+
+h1{
+    color: $color2;
+    font-size: $tamaño1;
+}
+
+p{
+    color: $color3;
+    font-size: $tamaño2;
+}
+
+a{
+    color: $color4;
+    font-size: $tamaño3;
+}

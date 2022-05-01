@@ -1,0 +1,19 @@
+.contenedor {
+  background-color: midnightblue;
+}
+
+h1 {
+  color: white;
+  font-size: 22px;
+}
+
+p {
+  color: pink;
+  font-size: 18px;
+}
+
+a {
+  color: lightgreen;
+  font-size: 16px;
+}
+/*# sourceMappingURL=estiloEjemplo1.css.map */
